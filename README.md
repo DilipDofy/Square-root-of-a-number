@@ -16,7 +16,6 @@ To write a program to find the square root of a number.
 
 ## Program:
 ```
-/*
 Developed by: DILIP MP
 Reg.no: 212223230048
 
@@ -31,7 +30,6 @@ if num==64:
     print("Square root of the number: {:.1f}".format(result))
 else:
     print("Square root of the number: {}".format(result)) 
-*/
 ```
 
 ## Output:
